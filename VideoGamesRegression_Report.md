@@ -63,7 +63,7 @@ also we used data transform (Logarithmic transformation) we use it to make the d
 •	Sklearn for modle training 
 
 Communication:
-The slides are provided <a href="https://github.com/RazanAlzahrani1/VideoGames_Regression/blob/main/Linear_Regression_Presentation.pdf">here</a>, and proposal provided at <a href="https://github.com/RazanAlzahrani1/VideoGames_Regression/blob/main/README.md">Readme</a> file of the project.
+The slides are provided <a href="https://github.com/modisultan/VideoGames_Regression/blob/main/VideoGamesRegression_presnt.pdf">here</a>, and proposal provided at <a href="https://github.com/RazanAlzahrani1/VideoGames_Regression/blob/main/README.md">Readme</a> file of the project.
 
 
 
