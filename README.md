@@ -1,5 +1,5 @@
 
-# Predict Global Selse of Video Games 
+# Predict Global Sales of Video Games 
 
 
 ### Abstract:
